@@ -1,7 +1,35 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to Richard's blog. 
 
-![Image of fast.ai logo](images/logo.png)
+I'm planning on writing about:
+- anything that I may be `currently learning` or `find interesting`
+  - DevOps
+  - Programming Languages
+  - Process Flowcharts
+  - Pseudocode
+  - SQL
+  - Data Visualization
+  - Leetcode
+  - GitHub
+  - AI / Data Science
+  - Robotics
+  - Angular
+  - Material Design
+  - Storybook
+  - UI/UX Design
+  - Figma
+  - Zeplin
+  - Electricity / Electronics
+  - Business
+  - Finance
+  - VBA Macros
+  - Project Management
+  - Music
+  - Woodworking
+  - Small Engine Repair
+  - Survival Skills
+  - Splitting Firewood
+- Problem solving techniques,
+- Document any solutions to problems that I have found,
+- Organize knowledge & ideas
 
-## This is a title
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
